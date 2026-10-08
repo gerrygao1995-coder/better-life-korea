@@ -1,6 +1,6 @@
 # 본문 라이선스
 
-이 저장소의 안내문, 한국어 본문, 항목 데이터는 Creative Commons Attribution 4.0 International (CC BY 4.0)로 제공합니다.
+이 저장소의 안내문, 한국어 본문, 항목 데이터, 자체 제작 표지와 공유 이미지(cover.svg, social-preview.png), EPUB 본문은 Creative Commons Attribution 4.0 International (CC BY 4.0)로 제공합니다. 생성 스크립트와 HTML 표시·계산 코드는 LICENSE-CODE의 MIT 라이선스를 따릅니다.
 
 - [라이선스 안내](https://creativecommons.org/licenses/by/4.0/)
 - [라이선스 전문](https://creativecommons.org/licenses/by/4.0/legalcode)
