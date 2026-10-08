@@ -10,6 +10,12 @@
 
 무료 · 회원가입 없음 · 광고·추적 코드 없음 · 오프라인 읽기 · 출처 확인 기준 **2026-10-09**
 
+## 전세 계약을 앞두고 있다면
+
+**[보증금 보호 체크리스트 열기 →](https://gerrygao1995-coder.github.io/better-life-korea/jeonse.html)**
+
+계약 전·계약 체결·잔금과 입주·계약 종료의 10가지 확인과 멈출 신호입니다. [본문 문서](JEONSE.ko.md) · [공유 이미지](SHARING.ko.md#전세-체크리스트-공유) · [공식 출처 웹페이지](https://gerrygao1995-coder.github.io/better-life-korea/sources.html) · [의견과 검토 안내](FEEDBACK.ko.md)
+
 ## 이럴 때 열어보세요
 
 | 지금 내 상황 | 읽는 순서 |

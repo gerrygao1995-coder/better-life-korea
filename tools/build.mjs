@@ -37,5 +37,7 @@ const inject={'__COUNT__':items.length,'__CHAPTER_COUNT__':chapters.length,'__SO
 const render=source=>source.replace(/__[A-Z_]+__/g,key=>{if(!(key in inject))throw Error('Unknown template token '+key);return inject[key];});
 const html=render(read('tools/reader.html'));write('index.html',html);write('README.md',render(read('tools/readme-template.md')));
 write('robots.txt','User-agent: *\nAllow: /\nSitemap: https://gerrygao1995-coder.github.io/better-life-korea/sitemap.xml\n');
-write('sitemap.xml','<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://gerrygao1995-coder.github.io/better-life-korea/</loc><lastmod>2026-10-09</lastmod></url></urlset>\n');
+write('sitemap.xml','<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+['','jeonse.html','sources.html','feedback.html'].map(p=>'<url><loc>https://gerrygao1995-coder.github.io/better-life-korea/'+p+'</loc><lastmod>2026-10-09</lastmod></url>').join('')+'</urlset>\n');
+await import('./build-jeonse.mjs');
+await import('./build-sources.mjs');
 console.log(JSON.stringify({items:items.length,chapters:chapters.length,uniqueSources:sourceUrls.length,routes:routes.length,htmlBytes:Buffer.byteLength(html)},null,2));
