@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">대한민국 생활 치트키</title><desc id="desc">몰라서 새는 돈, 미뤄서 생기는 손해. 한국에서 덜 쓰고 더 잘 사는 법. 36개 주제, 274개 항목, 공식 출처.</desc>
+<rect width="1200" height="630" fill="#163c35"/>
+<circle cx="1080" cy="0" r="360" fill="#244e3d"/>
+<path d="M902 650V150h320" fill="none" stroke="#a4bb77" stroke-width="2" opacity=".25"/>
+<path d="M960 650V210h300" fill="none" stroke="#a4bb77" stroke-width="2" opacity=".25"/>
+<g font-family="Malgun Gothic,Apple SD Gothic Neo,sans-serif">
+<text x="64" y="65" fill="#bfceba" font-size="14" letter-spacing="3">BETTER LIFE KOREA / OPEN LIFE GUIDE</text>
+<rect x="65" y="104" width="228" height="35" rx="17.5" fill="#d9ef98"/>
+<text x="179" y="128" text-anchor="middle" fill="#1b4236" font-size="14" font-weight="700">공식 근거로 줄이는 시행착오</text>
+<text x="60" y="235" fill="#ffffff" font-size="70" font-weight="800" letter-spacing="-4">대한민국</text>
+<text x="60" y="325" fill="#d9ef98" font-size="84" font-weight="800" letter-spacing="-5">생활 치트키</text>
+<text x="65" y="387" fill="#e3eadf" font-size="24" letter-spacing="-1">몰라서 새는 돈, 미뤄서 생기는 손해.</text>
+<text x="65" y="429" fill="#c0d0be" font-size="20" letter-spacing="-.5">한국에서 덜 쓰고 더 잘 사는 법.</text>
+<rect x="65" y="474" width="573" height="1" fill="#577864"/>
+<text x="65" y="521" fill="#ffffff" font-size="17">36개 생활 주제</text><text x="227" y="521" fill="#ffffff" font-size="17">274개 실천 항목</text><text x="403" y="521" fill="#ffffff" font-size="17">12가지 상황별 길잡이</text>
+<text x="65" y="578" fill="#9eb5a2" font-size="13">무료 · 회원가입 없음 · 공식 출처 · 검색과 오프라인 읽기</text>
+<g transform="translate(756 150) rotate(5 178 178)">
+<rect width="354" height="340" rx="18" fill="#f3f2e9"/>
+<text x="29" y="47" font-size="12" letter-spacing="2" fill="#537957">YOUR NEXT MOVE</text>
+<text x="29" y="100" font-size="29" font-weight="700" letter-spacing="-1" fill="#204839">다 읽지 않아도,</text><text x="29" y="143" font-size="29" font-weight="700" letter-spacing="-1" fill="#204839">오늘 하나는 바뀝니다.</text>
+<path d="M29 174h296M29 224h296M29 274h296" stroke="#d2dbce"/>
+<text x="29" y="207" fill="#355840" font-size="15">01  내 상황에 맞는 항목 고르기</text><text x="29" y="257" fill="#355840" font-size="15">02  비용과 조건, 근거 확인하기</text><text x="29" y="307" fill="#355840" font-size="15">03  실행하고 필요한 사람에게 공유</text>
+</g>
+<text x="770" y="580" fill="#c0d0be" font-size="14">github.com/gerrygao1995-coder/better-life-korea</text>
+</g>
+</svg>

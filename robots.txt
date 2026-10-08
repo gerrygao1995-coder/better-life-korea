@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gerrygao1995-coder.github.io/better-life-korea/sitemap.xml
